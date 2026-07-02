@@ -13,7 +13,7 @@
     <PublishReadyToRun>false</PublishReadyToRun>
     <TieredCompilation>true</TieredCompilation>
 
-    <RuntimeIdentifier>osx-x64</RuntimeIdentifier>
+    <RuntimeIdentifier>osx-arm64</RuntimeIdentifier>
     <UseAppHost>true</UseAppHost>
 
     <UseSourceGenerators>true</UseSourceGenerators>
